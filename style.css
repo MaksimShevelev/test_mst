@@ -54,7 +54,7 @@ strong {
 
 .nav-container {
   position: absolute;
-  left: 25rem;
+  left: 15rem;
 }
 
 .nav a {
@@ -70,7 +70,6 @@ strong {
 
 .hero {
   display: flex;
-  height: 100vh;
   background: #cee1d7;
   color: #2a5c49;
   margin-top: -5rem;
